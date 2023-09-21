@@ -1,0 +1,134 @@
+{
+  "products": [
+    {
+      "name": "Smartphone X",
+      "details": "5.5-inch display, 128GB storage, dual-camera",
+      "dispatch_time": 2,
+      "price": 24999
+    },
+    {
+      "name": "Laptop Pro",
+      "details": "15.6-inch, Intel i7, 16GB RAM, 512GB SSD",
+      "dispatch_time": 3,
+      "price": 64999
+    },
+    {
+      "name": "Wireless Headphones",
+      "details": "Noise-cancelling, 30-hour battery life",
+      "dispatch_time": 1,
+      "price": 4999
+    },
+    {
+      "name": "4K Smart TV",
+      "details": "55-inch, HDR, Netflix, Amazon Prime",
+      "dispatch_time": 5,
+      "price": 34999
+    },
+    {
+      "name": "Coffee Maker",
+      "details": "Programmable, 12-cup capacity",
+      "dispatch_time": 2,
+      "price": 1499
+    },
+    {
+      "name": "Gaming Console",
+      "details": "PlayStation 5, 1TB SSD, 4K gaming",
+      "dispatch_time": 7,
+      "price": 44999
+    },
+    {
+      "name": "Digital Camera",
+      "details": "20MP, 4K video, DSLR",
+      "dispatch_time": 4,
+      "price": 29999
+    },
+    {
+      "name": "Fitness Tracker",
+      "details": "Heart rate monitor, sleep tracking",
+      "dispatch_time": 1,
+      "price": 2499
+    },
+    {
+      "name": "Microwave Oven",
+      "details": "1000W, 1.5 cu. ft. capacity",
+      "dispatch_time": 2,
+      "price": 8999
+    },
+    {
+      "name": "Vacuum Cleaner",
+      "details": "Bagless, HEPA filter, 1800W",
+      "dispatch_time": 3,
+      "price": 7999
+    },
+    {
+      "name": "Bluetooth Speaker",
+      "details": "Portable, 20W output, waterproof",
+      "dispatch_time": 2,
+      "price": 1999
+    },
+    {
+      "name": "Home Theater System",
+      "details": "5.1 channel, 1000W, Dolby Atmos",
+      "dispatch_time": 6,
+      "price": 17999
+    },
+    {
+      "name": "Tablet PC",
+      "details": "10-inch display, Android OS, 64GB storage",
+      "dispatch_time": 2,
+      "price": 7999
+    },
+    {
+      "name": "Refrigerator",
+      "details": "20 cu. ft., frost-free, energy-efficient",
+      "dispatch_time": 5,
+      "price": 24999
+    },
+    {
+      "name": "Coffee Grinder",
+      "details": "Burr grinder, adjustable settings",
+      "dispatch_time": 1,
+      "price": 799
+    },
+    {
+      "name": "Bluetooth Earbuds",
+      "details": "Wireless, noise-cancelling, long battery life",
+      "dispatch_time": 2,
+      "price": 2999
+    },
+    {
+      "name": "Digital Watch",
+      "details": "Smartwatch, heart rate monitor, GPS",
+      "dispatch_time": 1,
+      "price": 4999
+    },
+    {
+      "name": "Electric Toothbrush",
+      "details": "Sonic technology, 4 brushing modes",
+      "dispatch_time": 2,
+      "price": 1299
+    },
+    {
+      "name": "Blender",
+      "details": "1000W motor, multiple speed settings",
+      "dispatch_time": 3,
+      "price": 1999
+    },
+    {
+      "name": "Smart Thermostat",
+      "details": "Wi-Fi enabled, energy-saving",
+      "dispatch_time": 1,
+      "price": 3499
+    },
+    {
+      "name": "Car Vacuum Cleaner",
+      "details": "12V, portable, car interior cleaning",
+      "dispatch_time": 4,
+      "price": 999
+    }
+  ],
+  "order": {
+    "total": 0,
+    "order": []
+  }
+}
